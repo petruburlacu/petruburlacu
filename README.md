@@ -1,5 +1,3 @@
-### Hi there, I'm Peter! 👋
-
 <!--
 **petruburlacu/petruburlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=petruburlacu)](https://github.com/anuraghazra/github-readme-stats" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petruburlacu&layout=compact" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=petruburlacu&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=petruburlacu&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=petruburlacu&show_icons=true" />
+</picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petruburlacu&repo=wapplate)](https://github.com/petruburlacu/wapplate)
